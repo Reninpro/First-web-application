@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+My first web application using flutter
 
 ## Getting Started
 
